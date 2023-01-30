@@ -1,5 +1,5 @@
 # Notes-App
-A Simple API REST API
+A Simple REST API
 
 Notes API & Books API in one application
 Notes-app is an API for listing and creating and updating notes and also an API for listing and details and creating and updating books library
